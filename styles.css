@@ -1,0 +1,94 @@
+body {
+    background-image: linear-gradient(white 40%, #9a9b9cb2);
+    /* background-color: white; */
+}
+
+.header {
+    background-color: #3b5999;
+    height: 93px;
+}
+
+.facebook {
+    color: white;
+    font-size: 45px;
+    line-height: 105px;
+    font-weight: bold;
+}
+
+.email {
+    color: white;
+}
+
+.input {
+    font-size: 10px;
+    width: 200px;
+}
+
+.button {
+    font-size: 14px;
+    height: 33px;
+    background-color: #4469ab;
+    border: 1px solid #4469ab;
+    color: white;
+    font-weight: bold;
+}
+
+.para {
+    font-size: 25px;
+    color: #333399;
+    text-shadow: 2px 2px 4px #333399;
+}
+
+.para2 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.para3 {
+    font-size: 25px;
+}
+
+.input2 {
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.input3 {
+    width: 545px;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.lable {
+    font-size: 30px;
+    color: #61646c;
+}
+
+.date {
+    width: 210px;
+    height: 52px;
+    font-size: 20px;
+}
+
+.para4 {
+    color: #333399;
+}
+
+.gender {
+    font-size: 30px;
+}
+
+.button2 {
+    background-color: #5e984b;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #5e984b;
+    border-radius: 5px;
+}
